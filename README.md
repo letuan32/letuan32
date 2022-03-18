@@ -56,5 +56,5 @@
 
 </p>
 
-### Github Stats
+### :chart_with_upwards_trend: Github Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letuan32&" alt="letuan32" /></p>
