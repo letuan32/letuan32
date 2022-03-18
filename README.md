@@ -5,13 +5,13 @@
 <div align="center">
   <h2>Hi there 👋, I'm Tuan Le</h2>
 <p>
-  <a href="https://www.facebook.com/thaituan.lt/" target="blank"><img align="center"
+  <a href="https://www.facebook.com/thaituan.lt/" target="_blank"><img align="center"
       src="./icon/facebook.png"
     width="20" /></a>
-  <a href="mailto:letuanlttt@gmail.com" target="blank"><img align="center"
+  <a href="mailto:letuanlttt@gmail.com" target="_blank"><img align="center"
       src="./icon/gmail.png"
     width="20" /></a>
- <a  href="https://join.skype.com/invite/vavjzn3186U7" target="blank"><img align="center"
+ <a  href="https://join.skype.com/invite/vavjzn3186U7" target="_blank"><img align="center"
       src="./icon/skype.png"
     width="20" /></a>
 
