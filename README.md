@@ -23,7 +23,7 @@
 <p><img width="500" align="right" src="./icon/giphy.gif" alt="adam-pw" /></p>
 
 - 🎓 I'm a final year student at University of Greenwich - Vietnam.
-- 🔭 I'm a Fresher Backend Developer
+- 🔭 I'm a Junior Backend Developer
 - 🔎 I am interested in Web Application Architecture
 
 ### What I'm focusing on:
